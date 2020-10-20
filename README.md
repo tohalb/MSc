@@ -9,7 +9,9 @@ Files named 'NN_NLP_2...' are from the second assignment using Seq2Seq with Atte
 
 Files named 'CV_' are from the Computer Vision module.
 
-Files beginning Audio are speech processing tasks. 
+Files beginning Audio are speech processing tasks.
+
+Quantum programming code is in its own repository.
 
 For audio processing, the are a language and person identification task done two ways: using a standard classification CNN and using a Siamese network. The data used are from Kaggle (as a first POC) for the language identification (https://www.kaggle.com/toponowicz/spoken-language-identification ), and then using more realistic data from Common Voice for both language and person identification (using the contributor tags to identify speakers as the same). 
 
